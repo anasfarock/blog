@@ -1,4 +1,4 @@
-# Anas Farooq  AMP Blogger Theme
+# Anas Farooq - Blogger Theme
 
 A lightweight AMP-compatible Blogger theme focused on reading clarity, fast load, and simple customization. Uses the Courier Prime font and a responsive header that preserves the desktop header/search layout for tablets and medium screens.
 
